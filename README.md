@@ -1,4 +1,5 @@
 # Disaster-Management-Application-in-Figma
+This project demonstrates my skills in creating intuitive, user-centric designs with a focus on accessibility and functionality. I believe in leveraging technology to make meaningful contributions to society, and this project is a step in that direction.
 
 This repository contains the Figma design files for a comprehensive Disaster Management Application that aims to assist users during emergencies and disasters. It is a multi-functional, user-centric solution designed to enhance disaster response, preparedness, and recovery.
 
@@ -48,5 +49,7 @@ Design Approach
 This project focuses on creating a human-centered design to prioritize the needs of users during high-pressure situations:
 
 Clarity: All features are clearly structured to reduce cognitive load.
+
 Accessibility: The design ensures that users of all demographics, including those with disabilities, can easily access its features.
+
 Consistency: Uniform design language is maintained throughout the app to provide a familiar experience.
